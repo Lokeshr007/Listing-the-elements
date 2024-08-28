@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>example</title>
+<title>List</title>
 </head>
 <body>
 <div align="center">
